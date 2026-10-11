@@ -3,3 +3,5 @@
 ## Іске қосу
 
 python3 app.py
+
+Jenkins Poll SCM test
